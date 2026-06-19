@@ -33,13 +33,12 @@ Passionate about technology, innovation, entrepreneurship, and building solution
 - 🌎 Aspire Leaders Program Scholar
 - 🎓 Scholarship Recipient – Women & Tech Program
 - ☁️ AWS Student Builders Core Team
-- 🥇 1st Place – H2O HERO Game Jam Tournament
 - 🥈 2nd Place – CochaTech Hackathon
-- 🎮 Game Funding Winner – Women Game Jam Bolivia
 - 🚀 Selected for the Incubation Phase – GameJam Plus
+- 🥇 1st Place – H2O HERO Game Jam Tournament
+- 🎮 Game Funding Winner – Women Game Jam Bolivia
 - 🎓 UPB 100 Mejores Program Winner
-- 🌌 Honorable Mention – Astrophysics Olympiads
-- 🧪 First Honorable Mention – Physics Olympiads
+
   
 
 
