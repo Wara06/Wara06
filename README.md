@@ -37,7 +37,11 @@ Passionate about technology, innovation, entrepreneurship, and building solution
 ## 💻 Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,7 +92,7 @@ Personal portfolio showcasing projects, UI/UX work, and development experience.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaretzy_Murillo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yaretzy-wara-murillo-martinez-364110350)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Wara06-black?style=for-the-badge&logo=github)](https://github.com/Wara06)
+
 
 📧 yaretzymurillo6@gmail.com
 
