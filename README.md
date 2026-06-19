@@ -20,13 +20,6 @@ Passionate about technology, innovation, entrepreneurship, and building solution
 |-------------|-------------|
 | Aspire Leaders Program Scholar | Building technology for social impact |
 
-### Interests
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-Learning-green?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web_Development-Building-blue?style=for-the-badge)
-![UX/UI](https://img.shields.io/badge/UX/UI-Design-purple?style=for-the-badge)
-![STEM](https://img.shields.io/badge/STEM-Enthusiast-cyan?style=for-the-badge)
 
 ## 🏆 Achievements
 
