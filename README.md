@@ -70,35 +70,31 @@ Passionate about technology, innovation, entrepreneurship, and building solution
 
 ## 🚀 Featured Projects
 
-### 🚨 Panic Button System
-Digital emergency response solution designed to improve public safety and emergency accessibility.
+| Project | Description |
+|----------|-------------|
+| 🚨 **Panic Button System** | Digital emergency response solution designed to improve public safety and emergency accessibility. |
+| 🚌 **Bus Ticket Platform** | Platform designed to modernize and simplify bus ticket purchases in Bolivia. |
+| 🎨 **Portfolio Website** | Personal portfolio showcasing projects, UI/UX work, and development experience. |
 
-### 🚌 Bus Ticket Platform
-Platform designed to modernize and simplify bus ticket purchases in Bolivia.
+## 📌 Areas of Interest
 
-### 🎨 Portfolio Website
-Personal portfolio showcasing projects, UI/UX work, and development experience.
-
----
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Wara06&theme=tokyonight)
-
----
+![AWS](https://img.shields.io/badge/Cloud_Computing-AWS-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Learning-green?style=for-the-badge)
+![UX/UI](https://img.shields.io/badge/UX/UI-Design-purple?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web_Development-Building-blue?style=for-the-badge)
+![Startup](https://img.shields.io/badge/Startups-Innovation-red?style=for-the-badge)
+![STEM](https://img.shields.io/badge/STEM-Education-cyan?style=for-the-badge)
 
 
+## 🎯 Current Focus
 
-## 🌱 Currently Learning
+- ☁️ Expanding my AWS Cloud knowledge
+- 🤖 Exploring Artificial Intelligence applications
+- 🎨 Improving UI/UX and Product Design skills
+- 🚀 Building technology-driven solutions
+- 🌎 Participating in startup and innovation programs
 
-- AWS Cloud
-- Artificial Intelligence
-- Full Stack Development
-- Startup Development
-- Product Design
 
----
 
 ## 📫 Connect With Me
 
