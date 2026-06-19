@@ -1,3 +1,9 @@
+
+
+<p align="center">
+<img width="10296" height="3432" alt="imagen" src="https://github.com/user-attachments/assets/44d54c4e-5da4-4c46-a5e5-92f72d82a71d" />
+</p>
+
 # Hi there 👋 I'm Yaretzy Wara Murillo
 
 ### 🚀 Systems Engineering Student | AWS Student Builder | STEM Enthusiast | Future Tech Entrepreneur
