@@ -4,8 +4,6 @@
 <img width="10296" height="3432" alt="imagen" src="https://github.com/user-attachments/assets/44d54c4e-5da4-4c46-a5e5-92f72d82a71d" />
 </p>
 
-# Hi there 👋 I'm Yaretzy Wara Murillo
-
 ### 🚀 Systems Engineering Student | AWS Student Builder | STEM Enthusiast | Future Tech Entrepreneur
 
 Passionate about technology, innovation, entrepreneurship, and building solutions that create real-world impact.
@@ -14,13 +12,21 @@ Passionate about technology, innovation, entrepreneurship, and building solution
 
 ## 🌟 About Me
 
--  Systems Engineering Student at UPB
--  Core Team Member at AWS Student Builders
--  Aspire Leaders Program Scholar
--  Interested in Cloud Computing, Artificial Intelligence, Web Development and UX/UI
--  Physics & STEM Enthusiast
--  Startup and Innovation Advocate
--  Building technology for social impact
+| 🎓 Education | ☁️ Community |
+|-------------|-------------|
+| Systems Engineering Student at UPB | Core Team Member at AWS Student Builders |
+
+| 🌎 Leadership | 🚀 Mission |
+|-------------|-------------|
+| Aspire Leaders Program Scholar | Building technology for social impact |
+
+### Interests
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Learning-green?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web_Development-Building-blue?style=for-the-badge)
+![UX/UI](https://img.shields.io/badge/UX/UI-Design-purple?style=for-the-badge)
+![STEM](https://img.shields.io/badge/STEM-Enthusiast-cyan?style=for-the-badge)
 
 ## 🏆 Achievements
 
